@@ -1,5 +1,5 @@
 # wp-bot
-es una aplicacion sencilla para demostrar como crear un bot para whatsapp con la libreria whatsapp-web.js
+Es una aplicacion sencilla para demostrar como crear un bot para whatsapp con la libreria whatsapp-web.js
 pasos: 
 - clonar el proyecto o descargar directo del github 
 - ingresar en el proyecto 
